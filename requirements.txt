@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+PyMuPDF
+pydantic
+gradio
+numpy
+requests
